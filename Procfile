@@ -1,1 +1,1 @@
-﻿worker: py finbot.py
+﻿worker: python finbot.py
