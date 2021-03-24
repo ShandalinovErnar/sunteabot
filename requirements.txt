@@ -42,7 +42,7 @@ python-telegram-bot==4.0rc1
 pytz==2019.3
 qrcode==6.1
 requests==2.7.0
-rsa==4.0
+rsa==4.1
 service-identity==18.1.0
 six==1.12.0
 telebot==0.0.3
